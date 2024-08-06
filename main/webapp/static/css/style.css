@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+.list-card-image{
+	height: 20rem;
+}
+
+.list-card{
+	width: 18rem;
+	height: 32rem;
+}
+
+.details-card-image{
+	height: 50rem;
+}
+
+.details-card{
+	background-color:yellow;
+	width: 80rem;
+}
